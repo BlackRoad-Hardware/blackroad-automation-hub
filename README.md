@@ -1,5 +1,13 @@
 # blackroad-automation-hub
 
+> Automation rules engine - triggers, conditions, actions
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
+# blackroad-automation-hub
+
 Part of [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware) — IoT & hardware intelligence platform.
 
 ## Overview
